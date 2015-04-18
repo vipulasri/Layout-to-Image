@@ -5,4 +5,4 @@ Android Layout Xml File Containing any Parent Layout (Relative Layout, Linear La
 
 ### Screenshot of Sample Application
 
-![Screenshot](https://github.com/vipulasri/Layout-to-Image/blob/master/Screenshot.png)
+![Screenshot](https://github.com/vipulasri/Layout-to-Image/blob/master/Screenshot1.png)
