@@ -46,7 +46,7 @@ You can manually achieve this step with 3 steps:
     
     relativeLayout=(RelativeLayout)findViewById(R.id.container);  
     
-    //initialise layout_to_image object with its parent class and pass parameters as (<Current Activity>,<layout onject>)    
+    //initialise layout_to_image object with its parent class and pass parameters as (<Current Activity>,<layout object>)    
     
     layout_to_image=new Layout_to_Image(MainActivity.this,relativeLayout);
     
